@@ -1,0 +1,6 @@
+pi_devpi_homepage:
+    path:     /
+    defaults: { _controller: PiDevpiBundle:Default:index }
+lay:
+    path:     /layout
+    defaults: { _controller: PiDevpiBundle:Default:Layout }
